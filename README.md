@@ -48,11 +48,6 @@ Web-based healthcare interface
 - User-friendly UI design  
 - Basic appointment and information system  
 
-### 🔹 DSA Practice Repository
-- Daily LeetCode problem solving  
-- Focus on Arrays, Strings, Linked List, Trees, Recursion  
-- Continuous improvement in problem-solving skills  
-
 ---
 
 ## 📊 DSA Journey
@@ -77,9 +72,9 @@ Web-based healthcare interface
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
-- GitHub: https://github.com/your-username  
+- LinkedIn: www.linkedin.com/in/v-s-devikrishna-a67022291 
+- Email: vsdevikrishna123@gmail.com  
+- GitHub: https://github.com/vsdevikrishna111  
 
 ---
 
