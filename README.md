@@ -62,13 +62,6 @@ Web-based healthcare interface
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdevikrishna111&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vsdevikrishna111&theme=tokyonight&margin-w=10&no-frame=true"/>
-</p>
 
 ---
 
