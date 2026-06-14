@@ -18,6 +18,7 @@ I enjoy turning ideas into real, working systems instead of just theoretical con
 ---
 
 ## 🛠 Tech Stack
+
 **Languages:**
 - C
 - Java
@@ -50,10 +51,31 @@ Web-based healthcare interface
 
 ---
 
-## 📊 DSA Journey
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsdevikrishna111&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsdevikrishna111&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdevikrishna111&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vsdevikrishna111&theme=tokyonight&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+## 📈 DSA Journey
 - Solved ~30+ LeetCode problems  
 - Focus: building strong fundamentals first, speed later  
-- Goal: consistent problem-solving discipline
+- Goal: consistent problem-solving discipline  
 
 ---
 
@@ -72,7 +94,7 @@ Web-based healthcare interface
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/v-s-devikrishna-a67022291 
+- LinkedIn: www.linkedin.com/in/v-s-devikrishna-a67022291  
 - Email: vsdevikrishna123@gmail.com  
 - GitHub: https://github.com/vsdevikrishna111  
 
